@@ -1,4 +1,4 @@
-package org.luv2code.o5_wait_machanisms;
+package org.luv2code.o5_wait_mechanisms;
 
 import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Page;
